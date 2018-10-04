@@ -1,0 +1,20 @@
+.navbar {
+  margin-top: 30px; }
+  .navbar .nav-banner {
+    margin-right: auto; }
+  .navbar .nav-item {
+    margin-left: auto; }
+    .navbar .nav-item a {
+      color: #3F5D45;
+      font-family: 'Noto Sans TC', sans-serif;
+      line-height: 2; }
+  .navbar .nav-shopcart {
+    color: #3F5D45;
+    line-height: 2;
+    text-align: right; }
+
+.Jumbotron {
+  height: 80vh;
+  background-image: url(../public/img/annie-spratt-133872-unsplash.jpg);
+  background-position: center;
+  background-size: cover; }
